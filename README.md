@@ -6,7 +6,7 @@ Hey there!!!
 
 Do follow the below instructions to test the following API:
 
----> Clone the repo to your local machine using the command given below.
+---> Clone the repo to your local machine using the command.
     "git clone https://github.com/ot-skannur/Backend-code-challenge.git"
 
 ---> To build the image make sure docker is installed.
@@ -21,7 +21,7 @@ Do follow the below instructions to test the following API:
 ---> Use the below command to run the container.
      "docker run --publish 8000:8000 carbonmanagement"
 
----> Go to your favourite browser and run the local server given below.
+---> Go to your favourite browser and run the local server.
       "http://localhost:8000/"
 
 ---> Users can get the records without any authentication.However to post,update and delete the records one 
@@ -35,6 +35,6 @@ Do follow the below instructions to test the following API:
 ---> The API documentation link:  "http://localhost:8000/docs/"
 
 
-Experience:
+
     An amazing experience to build a REST web service for the first time.It was a bit challenging while implementing authentication classes and dockerizing the api.
     It took around two days approximately to build this api. Unfortunately couldn't do the frontend part since I am not well-versed in javascript framework. Looking forward to learn and grow.
