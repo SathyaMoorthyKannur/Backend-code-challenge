@@ -1,7 +1,7 @@
 # Backend-code-challenge
 Hey there!!!
 
---> This an API which supports CRUD operation.
+--> This is an API which supports CRUD operation.
 --> This API supports JWT authentication,pagination and ordering.
 
 Do follow the below instructions to test the following API:
